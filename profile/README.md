@@ -15,6 +15,6 @@ https://www.bidx.io/
 
 <p align="right">
   <a href="https://www.bidx.io/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=BidX&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=BidX&style=for-the-badge&color=13144A">
   </a>
 </p>
