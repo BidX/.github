@@ -12,3 +12,9 @@ We provide a free 14-day trial where you can test the whole BidX platform with a
 
 Visit our homepage to find out more:
 https://www.bidx.io/
+
+<p align="right">
+  <a href="https://www.bidx.io/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=BidX&style=for-the-badge">
+  </a>
+</p>
